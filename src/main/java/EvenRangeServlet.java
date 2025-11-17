@@ -24,6 +24,5 @@ public class EvenRangeServlet extends HttpServlet {
         }
         out.print("<html>");
         out.close();
-
     }
 }
